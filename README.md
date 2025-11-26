@@ -10,7 +10,7 @@ A responsive and user-friendly movie browsing application built using React.js. 
 
 🔍 Search movies by name in real time
 ⭐ View movie details including ratings, description, and release year
-❤️ Add to favourites (optional if the feature exists or planned)
+❤️ Add to favourites
 🖥️ Responsive UI optimized for all screen sizes
 ⚛️ Built with React Hooks and reusable components
 
@@ -22,5 +22,5 @@ A responsive and user-friendly movie browsing application built using React.js. 
 
 Category	Technology
 Frontend	React.js, React Router
-API	TMDb API (or whichever API used)
+API	TMDb API
 Styling	CSS / Tailwind / Styled Components (replace based on your build)
