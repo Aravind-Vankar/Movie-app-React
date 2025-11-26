@@ -1,12 +1,26 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+🎬 Movie App (React)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A responsive and user-friendly movie browsing application built using React.js. This app allows users to explore movies, search for titles, and view detailed information such as release dates, ratings, and descriptions. The application fetches real-time movie data from an external movie API, ensuring updated content and an engaging experience.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+🚀 Features
+
+🔍 Search movies by name in real time
+⭐ View movie details including ratings, description, and release year
+❤️ Add to favourites (optional if the feature exists or planned)
+🖥️ Responsive UI optimized for all screen sizes
+⚛️ Built with React Hooks and reusable components
+
+
+
+
+
+🛠️ Tech Stack
+
+Category	Technology
+Frontend	React.js, React Router
+API	TMDb API (or whichever API used)
+Styling	CSS / Tailwind / Styled Components (replace based on your build)
